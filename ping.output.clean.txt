@@ -1,0 +1,1 @@
+5 packets transmitted, 5 packets received, 0.0% packet loss
